@@ -1,7 +1,7 @@
 
 package com.isti.cats;
 
-class Example {
+public class Example {
 
     private String value;
 
