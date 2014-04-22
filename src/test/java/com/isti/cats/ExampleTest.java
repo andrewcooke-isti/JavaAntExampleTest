@@ -14,7 +14,7 @@ public class ExampleTest {
     @Test
     public void testValue2() {
 	Example e = new Example("bar");
-	assertEquals(e.getValue(), "baz");
+	assertEquals(e.getValue(), "bar");
     }
 
 }
